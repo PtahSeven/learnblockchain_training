@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# 登链训练营第一周第二课
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## 合约地址
+https://goerli.etherscan.io/address/0xa588e1cdd856da596cfd3fb72264af5025c32643
 
-Try running some of the following tasks:
+## 合约验证
+https://goerli.etherscan.io/address/0xa588e1cdd856da596cfd3fb72264af5025c32643#code
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
