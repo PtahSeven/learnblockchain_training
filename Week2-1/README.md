@@ -1,5 +1,5 @@
 # 登链训练营第二周第一课
-## Back合约地址
+## Bank合约地址
 https://goerli.etherscan.io/address/0x2b6ecb4f72a011012c0c60416c0520058ac64842#code
 
 ## 存款hahs
