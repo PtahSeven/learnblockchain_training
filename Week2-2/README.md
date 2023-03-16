@@ -1,5 +1,5 @@
 # 登链训练营第二周第二课
-## chengji合约地址
+## 成绩合约地址
 https://goerli.etherscan.io/address/0xF6052695f77297Df0f02641C8a50CcA965137a4e#code
 
 ## 记录学生地址和分数hash
